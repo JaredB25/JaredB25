@@ -14,7 +14,7 @@ A tech enthusiast who is eager to contribute to innovative projects and grow wit
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 
-<h3>👨‍💻 Languages :</h3>
+<h3> Programming Languages :</h3>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 
