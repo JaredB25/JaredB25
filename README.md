@@ -1,6 +1,8 @@
-<h1>Hi, I'm Jared, an <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">IT Professional</a>☺</h1>
+<h1>Hi, I'm  <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">Jared Bowens</a>👋</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>About Me </h2>
+
+<h3>👨‍💻 Information Technology Projects:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JaredB25/osticket-prereqs)
