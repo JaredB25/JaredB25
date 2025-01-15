@@ -1,6 +1,7 @@
-<h1>Hi, I'm  <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">Jared </a>👋</h1>
+<h1>Hi there 👋, I'm  <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">Jared </a>👨‍💻</h1>
 
 <h2>About Me </h2>
+A tech enthusiast who is eager to contribute to innovative projects and grow within the IT industry. 
 
 <h3>👨‍💻 Information Technology Projects:</h3>
 
@@ -11,6 +12,11 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+
+<h3>👨‍💻 Languages :</h3>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
 
 <h2>🤳Connect with me:</h2>
 
