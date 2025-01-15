@@ -1,4 +1,4 @@
-<h1>Hi, I'm  <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">Jared Bowens</a>👋</h1>
+<h1>Hi, I'm  <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">Jared </a>👋</h1>
 
 <h2>About Me </h2>
 
