@@ -3,7 +3,7 @@
 <h2>About Me </h2>
 A tech enthusiast who is eager to contribute to innovative projects and grow within the IT industry. 
 
-<h3>👨‍💻 Information Technology Projects:</h3>
+<h3> Information Technology Projects👨‍💻:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JaredB25/osticket-prereqs)
@@ -25,11 +25,11 @@ A tech enthusiast who is eager to contribute to innovative projects and grow wit
   <h3> Certifications 👨🏿‍🎓 :</h3>
 
   - [CompTIA A+](https://www.comptia.org/certifications/a)
-(https://www.comptia.org/certifications/a)
+
   - [TestOut Network Pro](https://certification.testout.com/verifycert/6-1C6-W9GDP)
   - [TestOut Routing and Switching Pro](https://certification.testout.com/verifycert/6-1C6-V4FJ76)
   -  [Google IT Support Professional](https://coursera.org/share/6da11c44ce4f0fa6cc1026ab8215169f)
- -  [Google Cybersecurity Professional]
+ -  Google Cybersecurity Professional (In Progress)
     
 
 
