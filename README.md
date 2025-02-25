@@ -22,7 +22,15 @@ A tech enthusiast who is eager to contribute to innovative projects and grow wit
 <br/>
 
 
-  
+  <h3> Certifications 👨🏿‍🎓 :</h3>
+
+  - [CompTIA A+](https://www.comptia.org/certifications/a)
+(https://www.comptia.org/certifications/a)
+  - [TestOut Network Pro](https://certification.testout.com/verifycert/6-1C6-W9GDP)
+  - [TestOut Routing and Switching Pro](https://certification.testout.com/verifycert/6-1C6-V4FJ76)
+  -  [Google IT Support Professional](https://coursera.org/share/6da11c44ce4f0fa6cc1026ab8215169f)
+ -  [Google Cybersecurity Professional]
+    
 
 
 
