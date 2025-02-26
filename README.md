@@ -14,7 +14,7 @@ A tech enthusiast who is eager to contribute to innovative projects and grow wit
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
   
 - <b>OpenVPN</b>
-  - [Configuring Remote VPN Server with OpenVPN](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Remote VPN Server with OpenVPN](https://github.com/JaredB25/OpenVPNLab1)
 
 
 <h3> Programming Languages :</h3>
