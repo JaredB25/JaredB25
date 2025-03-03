@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm  <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">Jared </a>👨‍💻</h1>
+<h1>Hi there 👋, I'm Jared an aspiring <a href="https://www.linkedin.com/in/jared-bowens-1906641a2/">Cyber Security Professional </a>👨‍💻</h1>
 
 <h2>About Me </h2>
 A tech enthusiast who is eager to contribute to innovative projects and grow within the IT industry. 
