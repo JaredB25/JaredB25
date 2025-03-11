@@ -15,7 +15,7 @@ A tech enthusiast who is eager to contribute to innovative projects and grow wit
   
 - <b>Virtual Private Networks</b>
   - [Configuring A Remote VPN Server with OpenVPN](https://github.com/JaredB25/OpenVPNLab1)
-  - [Configuring A Remote VPN Server with ProtonVPN](https://github.com/JaredB25/VPNLab1)
+  - [Configuring ProtonVPN With Azure VM](https://github.com/JaredB25/VPNLab1)
 
 
 <h3> Programming Languages :</h3>
