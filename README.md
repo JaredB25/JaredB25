@@ -13,10 +13,8 @@ A tech enthusiast who is eager to contribute to innovative projects and grow wit
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jaredb25/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JaredB25/Azure-networking)
-  
-- <b>Virtual Private Networks</b>
-  - [Configuring A Remote VPN Server with OpenVPN](https://github.com/JaredB25/OpenVPNLab1)
-  - [Configuring ProtonVPN With Azure VM](https://github.com/JaredB25/VPNLab1)
+
+    
 
 
 <h3> Programming Languages :</h3>
