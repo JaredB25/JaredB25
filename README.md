@@ -8,8 +8,8 @@ A tech enthusiast who is eager to contribute to innovative projects and grow wit
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JaredB25/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JaredB25/post-install-config)
- <!--  - [osTicket: Ticket Lifecycle Examples](https://github.com/JaredB25/ticket-lifecycle)
-    This content will not appear in the rendered Markdown -->
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JaredB25/ticket-lifecycle)
+    
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jaredb25/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JaredB25/Azure-networking)
